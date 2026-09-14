@@ -331,8 +331,22 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: f126ea7c35c63949be1b3809495ba82d
     GuidInternal: 
-    m_lastTime: -8584141706565485805
-    List: []
+    m_lastTime: -8584121902994640630
+    List:
+    - name: Main
+      guid: 914749dea263524c97be3eca330f6380
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f126ea7c35c63949be1b3809495ba82d
+      - ElementName: Main
+        ObjectType: 7
+        guid: 914749dea263524c97be3eca330f6380
+      Path: SoundBanks\Default Work Unit\Main
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -345,8 +359,25 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 7e35902dce5dc04e8f8deed8ad906022
     GuidInternal: 
-    m_lastTime: -8584141633315807342
-    List: []
+    m_lastTime: -8584121894855154647
+    List:
+    - name: Play_FireCrackle
+      guid: 3942a0d117713445b3e5113b902f5c74
+      id: 504763757
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 7e35902dce5dc04e8f8deed8ad906022
+      - ElementName: Play_FireCrackle
+        ObjectType: 3
+        guid: 3942a0d117713445b3e5113b902f5c74
+      Path: Events\Default Work Unit\Play_FireCrackle
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -853,7 +884,7 @@ MonoBehaviour:
     m_lastTime: -8584141706565759034
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedWaapiItemIds: 06000000070000000f000000100000009a0100009b010000a0010000a1010000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
