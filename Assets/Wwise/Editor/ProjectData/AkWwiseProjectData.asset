@@ -331,7 +331,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: f126ea7c35c63949be1b3809495ba82d
     GuidInternal: 
-    m_lastTime: -8584121859859483596
+    m_lastTime: -8584121811045938620
     List:
     - name: Main
       guid: 914749dea263524c97be3eca330f6380
@@ -359,7 +359,7 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 7e35902dce5dc04e8f8deed8ad906022
     GuidInternal: 
-    m_lastTime: -8584121873291555178
+    m_lastTime: -8584121836850077295
     List:
     - name: Play_FireCrackle
       guid: 3942a0d117713445b3e5113b902f5c74
@@ -392,6 +392,23 @@ MonoBehaviour:
         ObjectType: 3
         guid: 202edb479602d04bad165a396a3d6a81
       Path: Events\Default Work Unit\Play_MasterEnvironmentSwitch
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_MasterMusicSwitch
+      guid: 99a53f42c97b244c809d398a7ca8b903
+      id: 3166492733
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 7e35902dce5dc04e8f8deed8ad906022
+      - ElementName: Play_MasterMusicSwitch
+        ObjectType: 3
+        guid: 99a53f42c97b244c809d398a7ca8b903
+      Path: Events\Default Work Unit\Play_MasterMusicSwitch
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
@@ -901,7 +918,7 @@ MonoBehaviour:
     m_lastTime: -8584141706565759034
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 06000000070000000a0000000b0000000d0000000f000000100000001300000008010000090100009a0100009b010000a0010000a1010000
+  ExpandedWaapiItemIds: 06000000070000000a0000000b0000000c0000000d0000000e0000000f000000100000001300000008010000090100009a0100009b010000a0010000a1010000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

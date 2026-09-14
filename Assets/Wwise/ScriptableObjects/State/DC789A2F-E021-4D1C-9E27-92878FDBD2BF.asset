@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c998703b3b1d749589f6a994d26088f1, type: 3}
+  m_Name: DC789A2F-E021-4D1C-9E27-92878FDBD2BF
+  m_EditorClassIdentifier: 
+  objectName: Chords
+  id: 2614957188
+  guid: DC789A2F-E021-4D1C-9E27-92878FDBD2BF
+  WwiseStateGroupReference: {fileID: 11400000, guid: 694768693b54c76408d73448518af081, type: 2}
