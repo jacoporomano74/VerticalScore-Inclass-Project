@@ -303,8 +303,25 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: 2ddf13f765c8ba4dbaf3c38fb45e7d24
     GuidInternal: 
-    m_lastTime: -8584141706565985802
+    m_lastTime: -8584121275663272566
     List:
+    - name: Ambient
+      guid: d403d8a2b681e441bf87739ba018c75a
+      id: 77978275
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 2ddf13f765c8ba4dbaf3c38fb45e7d24
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      - ElementName: Ambient
+        ObjectType: 2
+        guid: d403d8a2b681e441bf87739ba018c75a
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambient
     - name: Master Audio Bus
       guid: d8a41415a61d2a41a17e75ca0c2149f3
       id: 3803692087
@@ -319,6 +336,40 @@ MonoBehaviour:
         ObjectType: 2
         guid: d8a41415a61d2a41a17e75ca0c2149f3
       Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus
+    - name: Music
+      guid: 2c5038a23e187a408be4265a6231ede2
+      id: 3991942870
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 2ddf13f765c8ba4dbaf3c38fb45e7d24
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      - ElementName: Music
+        ObjectType: 2
+        guid: 2c5038a23e187a408be4265a6231ede2
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Music
+    - name: SFX
+      guid: b96c5ee7a8c47d4baa582bf3b67ab9f3
+      id: 393239870
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 2ddf13f765c8ba4dbaf3c38fb45e7d24
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      - ElementName: SFX
+        ObjectType: 2
+        guid: b96c5ee7a8c47d4baa582bf3b67ab9f3
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SFX
   BankWwu:
   - PhysicalPath: SoundBanks\Default Work Unit.wwu
     PathAndIcons:
@@ -359,8 +410,25 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 7e35902dce5dc04e8f8deed8ad906022
     GuidInternal: 
-    m_lastTime: -8584121836850077295
+    m_lastTime: -8584121216890520106
     List:
+    - name: Play_Birds
+      guid: ba422e0a8dc7834dab5a836ad0c2939c
+      id: 3025897706
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 7e35902dce5dc04e8f8deed8ad906022
+      - ElementName: Play_Birds
+        ObjectType: 3
+        guid: ba422e0a8dc7834dab5a836ad0c2939c
+      Path: Events\Default Work Unit\Play_Birds
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
     - name: Play_FireCrackle
       guid: 3942a0d117713445b3e5113b902f5c74
       id: 504763757
@@ -375,6 +443,23 @@ MonoBehaviour:
         ObjectType: 3
         guid: 3942a0d117713445b3e5113b902f5c74
       Path: Events\Default Work Unit\Play_FireCrackle
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Loons
+      guid: f23567691be6bb4cb9b4c8d39a59c21f
+      id: 2817581021
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 7e35902dce5dc04e8f8deed8ad906022
+      - ElementName: Play_Loons
+        ObjectType: 3
+        guid: f23567691be6bb4cb9b4c8d39a59c21f
+      Path: Events\Default Work Unit\Play_Loons
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
