@@ -8682,6 +8682,24 @@ MonoBehaviour:
     positionOffset: {x: 0, y: 0, z: 0}
   m_posOffsetData: {fileID: 0}
   listenerMask: 1
+--- !u!114 &325348162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 325348153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d455a29d22bf86e4f906c7f5df5d6548, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  joint: {fileID: 1182248921}
+  footstepEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 7545f35b99cacc147a2c6abc0287290d, type: 2}
+  minSpeed: 0.5
 --- !u!1001 &325428819
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28917,6 +28935,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4459864850019384750, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
       insertIndex: -1
       addedObject: {fileID: 325348154}
+    - targetCorrespondingSourceObject: {fileID: 4459864850019384750, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 325348162}
   m_SourcePrefab: {fileID: 100100000, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
 --- !u!1001 &994248145
 PrefabInstance:
@@ -34981,6 +35002,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4500090590442396, guid: a809e9c4d33e83f4fa8408a33b72eaf9, type: 3}
   m_PrefabInstance: {fileID: 1178597509}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1182248921 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4459864851508666808, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
+  m_PrefabInstance: {fileID: 991465225}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1182519312
 PrefabInstance:

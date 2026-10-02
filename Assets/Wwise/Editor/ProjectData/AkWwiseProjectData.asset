@@ -382,7 +382,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: f126ea7c35c63949be1b3809495ba82d
     GuidInternal: 
-    m_lastTime: -8584121811045938620
+    m_lastTime: -8584106669380552652
     List:
     - name: Main
       guid: 914749dea263524c97be3eca330f6380
@@ -410,7 +410,7 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 7e35902dce5dc04e8f8deed8ad906022
     GuidInternal: 
-    m_lastTime: -8584121216890520106
+    m_lastTime: -8584106676109176485
     List:
     - name: Play_Birds
       guid: ba422e0a8dc7834dab5a836ad0c2939c
@@ -443,6 +443,23 @@ MonoBehaviour:
         ObjectType: 3
         guid: 3942a0d117713445b3e5113b902f5c74
       Path: Events\Default Work Unit\Play_FireCrackle
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_footsteps
+      guid: f9492ee4d70bab4792ef91760d2f4e28
+      id: 3854155799
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 7e35902dce5dc04e8f8deed8ad906022
+      - ElementName: Play_footsteps
+        ObjectType: 3
+        guid: f9492ee4d70bab4792ef91760d2f4e28
+      Path: Events\Default Work Unit\Play_footsteps
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
@@ -986,8 +1003,90 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: 88dcc05268163b44b4840dd71619893e
     GuidInternal: 
-    m_lastTime: -8584141706566228279
-    List: []
+    m_lastTime: -8584106676109258725
+    List:
+    - name: Surface
+      guid: 2ce51cd8c7e9184192e6754f173be660
+      id: 1834394558
+      PathAndIcons:
+      - ElementName: Switches
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 88dcc05268163b44b4840dd71619893e
+      - ElementName: Surface
+        ObjectType: 11
+        guid: 2ce51cd8c7e9184192e6754f173be660
+      Path: Switches\Default Work Unit\Surface
+      values:
+      - name: Grass
+        guid: 8c7a89aadd8d68429f9490f08bac41c7
+        id: 4248645337
+        PathAndIcons:
+        - ElementName: Switches
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 88dcc05268163b44b4840dd71619893e
+        - ElementName: Surface
+          ObjectType: 11
+          guid: 2ce51cd8c7e9184192e6754f173be660
+        - ElementName: Grass
+          ObjectType: 10
+          guid: 8c7a89aadd8d68429f9490f08bac41c7
+      - name: Ground
+        guid: 7dd4f53b621bec439bb8875d34960b3a
+        id: 2528658256
+        PathAndIcons:
+        - ElementName: Switches
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 88dcc05268163b44b4840dd71619893e
+        - ElementName: Surface
+          ObjectType: 11
+          guid: 2ce51cd8c7e9184192e6754f173be660
+        - ElementName: Ground
+          ObjectType: 10
+          guid: 7dd4f53b621bec439bb8875d34960b3a
+      - name: Mud
+        guid: 0c9701245755f74bb1229dbc2154329e
+        id: 712897245
+        PathAndIcons:
+        - ElementName: Switches
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 88dcc05268163b44b4840dd71619893e
+        - ElementName: Surface
+          ObjectType: 11
+          guid: 2ce51cd8c7e9184192e6754f173be660
+        - ElementName: Mud
+          ObjectType: 10
+          guid: 0c9701245755f74bb1229dbc2154329e
+      - name: Wood
+        guid: 98e6bb657f13c243bb524c4554f0c22f
+        id: 2058049674
+        PathAndIcons:
+        - ElementName: Switches
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 88dcc05268163b44b4840dd71619893e
+        - ElementName: Surface
+          ObjectType: 11
+          guid: 2ce51cd8c7e9184192e6754f173be660
+        - ElementName: Wood
+          ObjectType: 10
+          guid: 98e6bb657f13c243bb524c4554f0c22f
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     PathAndIcons:
@@ -1003,7 +1102,7 @@ MonoBehaviour:
     m_lastTime: -8584141706565759034
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 06000000070000000a0000000b0000000c0000000d0000000e0000000f000000100000001300000008010000090100009a0100009b010000a0010000a1010000
+  ExpandedWaapiItemIds: 0500000006000000070000000a0000000b0000000c0000000d0000000e0000000f000000100000001300000008010000090100009a0100009b010000a0010000a1010000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
