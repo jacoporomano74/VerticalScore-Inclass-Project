@@ -1003,7 +1003,7 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: 88dcc05268163b44b4840dd71619893e
     GuidInternal: 
-    m_lastTime: -8584106676109258725
+    m_lastTime: -8584106608322772969
     List:
     - name: Surface
       guid: 2ce51cd8c7e9184192e6754f173be660
@@ -1068,6 +1068,22 @@ MonoBehaviour:
         - ElementName: Mud
           ObjectType: 10
           guid: 0c9701245755f74bb1229dbc2154329e
+      - name: Water
+        guid: da6a9d3ef4642f4281778c41f8f3f7c0
+        id: 2654748154
+        PathAndIcons:
+        - ElementName: Switches
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 88dcc05268163b44b4840dd71619893e
+        - ElementName: Surface
+          ObjectType: 11
+          guid: 2ce51cd8c7e9184192e6754f173be660
+        - ElementName: Water
+          ObjectType: 10
+          guid: da6a9d3ef4642f4281778c41f8f3f7c0
       - name: Wood
         guid: 98e6bb657f13c243bb524c4554f0c22f
         id: 2058049674
