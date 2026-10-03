@@ -303,7 +303,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: 2ddf13f765c8ba4dbaf3c38fb45e7d24
     GuidInternal: 
-    m_lastTime: -8584121275663272566
+    m_lastTime: -8584105688879664132
     List:
     - name: Ambient
       guid: d403d8a2b681e441bf87739ba018c75a
@@ -410,7 +410,7 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 7e35902dce5dc04e8f8deed8ad906022
     GuidInternal: 
-    m_lastTime: -8584106676109176485
+    m_lastTime: -8584105709925297256
     List:
     - name: Play_Birds
       guid: ba422e0a8dc7834dab5a836ad0c2939c
@@ -511,6 +511,23 @@ MonoBehaviour:
         ObjectType: 3
         guid: 99a53f42c97b244c809d398a7ca8b903
       Path: Events\Default Work Unit\Play_MasterMusicSwitch
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Waterfall
+      guid: 88b71b3f04f263418fc0424126029f27
+      id: 467174588
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 7e35902dce5dc04e8f8deed8ad906022
+      - ElementName: Play_Waterfall
+        ObjectType: 3
+        guid: 88b71b3f04f263418fc0424126029f27
+      Path: Events\Default Work Unit\Play_Waterfall
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
