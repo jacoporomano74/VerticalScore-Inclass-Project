@@ -8821,6 +8821,26 @@ MonoBehaviour:
     valueGuidInternal: 
     WwiseObjectReference: {fileID: 11400000, guid: 7545f35b99cacc147a2c6abc0287290d, type: 2}
   minSpeed: 0.5
+  terrainLayerSurfaces:
+  - Grass
+  - Ground
+  - Ground
+  - Ground
+  - Ground
+  - Grass
+  - Ground
+  - Ground
+  - Ground
+  - Ground
+  - Mud
+  - Ground
+  - Grass
+  - Ground
+  - Ground
+  - Ground
+  - Ground
+  defaultSurface: Ground
+  debugSurface: 1
 --- !u!1001 &325428819
 PrefabInstance:
   m_ObjectHideFlags: 0
