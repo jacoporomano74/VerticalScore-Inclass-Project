@@ -2537,7 +2537,7 @@ GameObject:
   - component: {fileID: 104905977}
   m_Layer: 0
   m_Name: Bridge2
-  m_TagString: Untagged
+  m_TagString: Wood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2775,6 +2775,10 @@ PrefabInstance:
     - target: {fileID: 1872991023864826, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_Swamp_Growth_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1872991023864826, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
+      propertyPath: m_TagString
+      value: Mud
       objectReference: {fileID: 0}
     - target: {fileID: 4220168128555444, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
       propertyPath: m_RootOrder
@@ -4439,6 +4443,10 @@ PrefabInstance:
       value: River_Plane_01 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
+      propertyPath: m_TagString
+      value: Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -5405,6 +5413,10 @@ PrefabInstance:
     - target: {fileID: 1290192323667180, guid: 387d93711c1d03a48b083591256c560c, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Bridge_Curved_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290192323667180, guid: 387d93711c1d03a48b083591256c560c, type: 3}
+      propertyPath: m_TagString
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4109834554446322, guid: 387d93711c1d03a48b083591256c560c, type: 3}
       propertyPath: m_RootOrder
@@ -7209,6 +7221,10 @@ PrefabInstance:
     - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9690,6 +9706,10 @@ PrefabInstance:
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13435,6 +13455,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Terrain_Swamp_Growth_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1711048241894112, guid: 1741dbfc2602f4049a50662878927717, type: 3}
+      propertyPath: m_TagString
+      value: Mud
+      objectReference: {fileID: 0}
     - target: {fileID: 4985622849333124, guid: 1741dbfc2602f4049a50662878927717, type: 3}
       propertyPath: m_RootOrder
       value: 376
@@ -14329,6 +14353,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1909095731}
     m_Modifications:
+    - target: {fileID: 1876449246637018, guid: a383debb8fe64614fa95efaf685404ec, type: 3}
+      propertyPath: m_TagString
+      value: Mud
+      objectReference: {fileID: 0}
     - target: {fileID: 4712077172185618, guid: a383debb8fe64614fa95efaf685404ec, type: 3}
       propertyPath: m_RootOrder
       value: 379
@@ -17093,6 +17121,10 @@ PrefabInstance:
       value: SM_Terrain_GrassEdge_04 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -17889,6 +17921,10 @@ PrefabInstance:
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19205,6 +19241,10 @@ PrefabInstance:
       value: SM_Terrain_GrassEdge_04 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -19741,6 +19781,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1909095731}
     m_Modifications:
+    - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
@@ -21979,6 +22023,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1909095731}
     m_Modifications:
+    - target: {fileID: 1711048241894112, guid: 1741dbfc2602f4049a50662878927717, type: 3}
+      propertyPath: m_TagString
+      value: Mud
+      objectReference: {fileID: 0}
     - target: {fileID: 4985622849333124, guid: 1741dbfc2602f4049a50662878927717, type: 3}
       propertyPath: m_RootOrder
       value: 378
@@ -23282,6 +23330,10 @@ PrefabInstance:
     - target: {fileID: 1711048241894112, guid: 1741dbfc2602f4049a50662878927717, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_Swamp_Growth_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711048241894112, guid: 1741dbfc2602f4049a50662878927717, type: 3}
+      propertyPath: m_TagString
+      value: Mud
       objectReference: {fileID: 0}
     - target: {fileID: 4985622849333124, guid: 1741dbfc2602f4049a50662878927717, type: 3}
       propertyPath: m_RootOrder
@@ -25158,6 +25210,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1909095731}
     m_Modifications:
+    - target: {fileID: 1872991023864826, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
+      propertyPath: m_TagString
+      value: Mud
+      objectReference: {fileID: 0}
     - target: {fileID: 4220168128555444, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
       propertyPath: m_RootOrder
       value: 377
@@ -26960,6 +27016,10 @@ PrefabInstance:
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30578,7 +30638,7 @@ GameObject:
   - component: {fileID: 1064703636}
   m_Layer: 0
   m_Name: Bridge1
-  m_TagString: Untagged
+  m_TagString: Wood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30680,6 +30740,10 @@ PrefabInstance:
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -32120,6 +32184,10 @@ PrefabInstance:
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_Name
       value: River_Plane_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
+      propertyPath: m_TagString
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -34046,6 +34114,10 @@ PrefabInstance:
       value: River_Plane_01 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
+      propertyPath: m_TagString
+      value: Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -35230,6 +35302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Terrain_Swamp_Growth_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1872991023864826, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
+      propertyPath: m_TagString
+      value: Mud
+      objectReference: {fileID: 0}
     - target: {fileID: 4220168128555444, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
       propertyPath: m_RootOrder
       value: 744
@@ -35514,6 +35590,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 409228536}
     m_Modifications:
+    - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
+      propertyPath: m_TagString
+      value: Water
+      objectReference: {fileID: 0}
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
@@ -35824,6 +35904,10 @@ PrefabInstance:
     - target: {fileID: 198986847857501168, guid: e5e11fad68074894b9c22df9090f7f61, type: 3}
       propertyPath: randomSeed
       value: -561773552
+      objectReference: {fileID: 0}
+    - target: {fileID: 199103882944415244, guid: e5e11fad68074894b9c22df9090f7f61, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42023,6 +42107,10 @@ PrefabInstance:
       value: River_Plane_01 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
+      propertyPath: m_TagString
+      value: Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -42532,6 +42620,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1909095731}
     m_Modifications:
     - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -42663,6 +42755,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1909095731}
     m_Modifications:
+    - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
@@ -42935,6 +43031,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Terrain_Swamp_Growth_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1872991023864826, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
+      propertyPath: m_TagString
+      value: Mud
+      objectReference: {fileID: 0}
     - target: {fileID: 4220168128555444, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
       propertyPath: m_RootOrder
       value: 742
@@ -43058,64 +43158,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4420938446259344, guid: 3fce99634b729594d89ee5e872b73dff, type: 3}
   m_PrefabInstance: {fileID: 1438292083}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1439159415
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1909095731}
-    m_Modifications:
-    - target: {fileID: 1609270425926636, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_Name
-      value: SM_Tree_Log_02 (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1609270425926636, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_RootOrder
-      value: 106
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.88143
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 4.8647733
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 27.800484
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.8071005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.13092001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.568288
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.092182346
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
---- !u!4 &1439159416 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
-  m_PrefabInstance: {fileID: 1439159415}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1441073297
 PrefabInstance:
@@ -48335,6 +48377,10 @@ PrefabInstance:
       value: SM_Terrain_GrassEdge_04 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -48403,6 +48449,10 @@ PrefabInstance:
     - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1638991624962186, guid: 27cc7f696b19bba49bc46796c717d699, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -48630,6 +48680,10 @@ PrefabInstance:
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_04 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -51250,7 +51304,7 @@ GameObject:
   - component: {fileID: 1728783286}
   m_Layer: 0
   m_Name: Swamp_Water
-  m_TagString: Untagged
+  m_TagString: Mud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51353,6 +51407,10 @@ PrefabInstance:
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -51857,6 +51915,10 @@ PrefabInstance:
     - target: {fileID: 199103882944415244, guid: e5e11fad68074894b9c22df9090f7f61, type: 3}
       propertyPath: m_SortingOrder
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 199103882944415244, guid: e5e11fad68074894b9c22df9090f7f61, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53685,6 +53747,10 @@ PrefabInstance:
       value: River_Plane_01 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
+      propertyPath: m_TagString
+      value: Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -54336,6 +54402,10 @@ PrefabInstance:
     - target: {fileID: 1872991023864826, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_Swamp_Growth_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1872991023864826, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
+      propertyPath: m_TagString
+      value: Mud
       objectReference: {fileID: 0}
     - target: {fileID: 4220168128555444, guid: 416c880aa7bc1404eb5ae451af21f192, type: 3}
       propertyPath: m_RootOrder
@@ -55992,6 +56062,10 @@ PrefabInstance:
       value: SM_Terrain_GrassEdge_01 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
+    - target: {fileID: 1707510748930232, guid: 7da8f896399831c46bd9bfafc844a571, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -56585,6 +56659,10 @@ PrefabInstance:
       value: River_Plane_01 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
+      propertyPath: m_TagString
+      value: Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806251082521260, guid: 8f6e03115ed50b943980d68d9115f1bd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 127
       objectReference: {fileID: 0}
@@ -57031,7 +57109,6 @@ Transform:
   - {fileID: 2132345658}
   - {fileID: 1029911347}
   - {fileID: 1290826200}
-  - {fileID: 1439159416}
   - {fileID: 1212243769}
   - {fileID: 346859971}
   - {fileID: 803653914}
@@ -58015,6 +58092,10 @@ PrefabInstance:
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_Name
       value: SM_Terrain_GrassEdge_04 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 1944111553845464, guid: d100f0b52c0966848a8eeaf0cf449418, type: 3}
       propertyPath: m_StaticEditorFlags
